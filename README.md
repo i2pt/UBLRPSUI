@@ -1,7 +1,7 @@
 # UBLRPSUI
 This repo contains MATLAB code and dataset of the article
 
-Md Abul Hayat, Jingxian Wu, and Yingli Cao, "Unsupervised Bayesian learning for rice panicle segmentation with UAV images", Plant Methods (accepted for publication), 2020.
+Md Abul Hayat, Jingxian Wu, and Yingli Cao, "[Unsupervised Bayesian learning for rice panicle segmentation with UAV images](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-020-00567-8)", Plant Methods, 2020.
 
 Please contact Dr. Jingxian Wu `wuj@uark.edu` before using this dataset for any research purpose.
 
@@ -24,4 +24,18 @@ This dataset contains 12 images taken with Unmanned Areal Vehicle (UAV) at the S
 | I12 | 6m | 430 × 420 |  
 
 ## MATLAB Code
-To be uploaded soon once the final review is complete. Please contact Dr. Jingxian Wu `wuj@uark.edu' if you have any question regarding the code or dataset. 
+Run `main_file.m' for executing the algorithm. Please contact Dr. Jingxian Wu `wuj@uark.edu` if you have any question regarding the code or dataset.
+
+## Cite Paper
+```
+@article{hayat2020unsupervised,
+  title={Unsupervised Bayesian learning for rice panicle segmentation with UAV images},
+  author={Hayat, Md Abul and Wu, Jingxian and Cao, Yingli},
+  journal={Plant methods},
+  volume={16},
+  number={1},
+  pages={1--13},
+  year={2020},
+  publisher={BioMed Central}
+}
+```
